@@ -63,7 +63,7 @@ Client --> [iOS Application]
 ## 4 Technology Stack
 
 1. **iPad POS Client**:
-   - **Language**: Swift or Flutter.
+   - **Language**: Flutter.
    - **Local Database**: SQLite or Core Data.
    - **GraphQL Client**: Apollo Client for data requests.
    - **Offline Mode**: Local storage for transactions, synced with AWS when back online.
