@@ -1,6 +1,6 @@
 Here's the complete **README.md** formatted as requested:
 
-```markdown
+
 # Cloud-Based POS System for iPads (Processor-Agnostic)
 
 ## 1. Background
@@ -34,6 +34,7 @@ The cloud-based design ensures the system is lightweight and efficient, scalable
 
 The system uses a modular, cloud-based architecture that relies on AWS services and GraphQL for flexible and scalable API interactions.
 
+```markdown
 ### System Architecture
 ```plantuml
 @startuml
