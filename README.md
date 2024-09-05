@@ -59,7 +59,7 @@ Client --> [iOS Application]
 @enduml
 ```
 
-### Technology Stack
+## 4 Technology Stack
 
 1. **iPad POS Client**:
    - **Language**: Swift or Flutter.
@@ -87,7 +87,7 @@ Client --> [iOS Application]
    - **Cypress** for end-to-end testing.
    - **Appium** for testing the iPad app's UI and offline functionality.
 
-## 4. Implementation
+## 5. Implementation
 
 The system will be built in stages, starting with the core infrastructure, followed by the backend, client, and advanced features.
 
