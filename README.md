@@ -118,7 +118,7 @@ The system will be built in stages, starting with the core infrastructure, follo
 - Use AWS CodePipeline and CodeBuild for continuous integration and deployment.
 - Integrate automated testing into the CI/CD pipeline.
 
-## 5. Milestones
+## 6. Milestones
 
 ### Milestone 1: AWS Infrastructure Setup
 - **Timeframe**: 1-2 weeks
@@ -144,7 +144,7 @@ The system will be built in stages, starting with the core infrastructure, follo
 - **Timeframe**: 2-3 weeks
 - **Tasks**: Test real-world use cases with users, refine based on feedback, and automate UAT testing.
 
-## 6. Gathering Results
+## 7. Gathering Results
 
 ### 1. System Performance
 - Monitor transaction latency, error rates, and system load using **AWS CloudWatch** and **X-Ray**.
