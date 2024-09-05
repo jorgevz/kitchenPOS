@@ -1,6 +1,5 @@
 Here's the complete **README.md** formatted as requested:
 
-```markdown
 # Cloud-Based POS System for iPads (Processor-Agnostic)
 
 ## 1. Background
@@ -57,7 +56,7 @@ Client --> [iOS Application]
 [iOS Application] --> [GraphQL API] : Online Mode
 [iOS Application] --> Local Storage : Offline Mode
 @enduml
-```
+
 
 ### Technology Stack
 
